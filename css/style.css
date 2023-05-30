@@ -1,5 +1,16 @@
 
+.box {
+    background-color: cadetblue;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
 
+.box-coral {
+    background-color: coral;
+    border: 1px solid white;
+}
 /* 
 HEADER 
 */
